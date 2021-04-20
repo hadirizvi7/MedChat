@@ -1,0 +1,63 @@
+{
+  "id": "09728e02-fba5-48e3-a802-a2aba497e869",
+  "parentId": "cca48352-2726-4d00-8f15-1ae77510808f",
+  "rootParentId": "eee6c294-1ff0-4698-977f-734ce726b945",
+  "name": "follow up",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-custom-custom-custom-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-custom-custom.DefaultWelcomeIntent-custom-custom-custom.DefaultWelcomeIntent-custom-custom-custom-custom.DefaultWelcomeIntent-custom-custom-custom-custom-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-custom-custom-custom-custom-custom-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "followup-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "afc1fd21-b4b4-4c74-9b11-72cc3971d40d",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Do you experience loss of appetite or low energy?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

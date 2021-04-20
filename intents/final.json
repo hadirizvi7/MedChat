@@ -1,0 +1,65 @@
+{
+  "id": "dbad4a21-c56d-48a7-9d6e-2991a7315031",
+  "parentId": "09728e02-fba5-48e3-a802-a2aba497e869",
+  "rootParentId": "eee6c294-1ff0-4698-977f-734ce726b945",
+  "name": "final",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-custom-custom-custom-custom-custom-followup",
+    "followup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-custom-custom.DefaultWelcomeIntent-custom-custom-custom.DefaultWelcomeIntent-custom-custom-custom-custom.DefaultWelcomeIntent-custom-custom-custom-custom-custom.followup-custom",
+      "affectedContexts": [
+        {
+          "name": "followup-custom-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "findzipcode-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e5b001be-9185-4eb9-b949-7d4839ad0ab4",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Strong Evidence of: \u0027Influenza\u0027. Moderate Evidence of: \u0027Acute bronchitis\u0027. Weak Evidence of: \u0027Pneumonia\u0027. A specialist will contact you via SMS in order to assess your situation. Thank you for your time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

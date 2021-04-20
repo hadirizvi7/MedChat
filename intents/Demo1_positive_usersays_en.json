@@ -1,0 +1,60 @@
+[
+  {
+    "id": "84328f53-0aa5-495b-a565-4ca396431727",
+    "data": [
+      {
+        "text": "one month",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ff04d4b-eb28-45b4-bc7b-ed3c266c4bab",
+    "data": [
+      {
+        "text": "a couple hours",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3386033-77f2-475a-b249-8cead3b5cc46",
+    "data": [
+      {
+        "text": "two weeks",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68e26123-29c0-4e35-8988-76e0071b7301",
+    "data": [
+      {
+        "text": "a few days",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

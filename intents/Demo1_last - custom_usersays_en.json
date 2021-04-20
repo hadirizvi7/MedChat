@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f6203a33-73bf-435e-b9b3-b7c224b11775",
+    "data": [
+      {
+        "text": "i experience some of these symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d2a3f13-f2df-4d9a-a637-06d6fdaf14b4",
+    "data": [
+      {
+        "text": "i feel pain in my chest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "259b30f4-7f1e-41cc-86cf-6b1392922caa",
+    "data": [
+      {
+        "text": "my skin is pale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7891a73b-2141-43f0-af71-4a5385eedd7c",
+    "data": [
+      {
+        "text": "i have trouble breathing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35fe8510-9e3c-47ff-9ff9-443b0d10dbc8",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e709624c-2fe5-4174-ae95-b9f4b9df90f5",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

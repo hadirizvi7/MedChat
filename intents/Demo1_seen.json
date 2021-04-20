@@ -1,0 +1,44 @@
+{
+  "id": "451e9012-4e51-4508-becc-29ec13676f8b",
+  "parentId": "a0aa4785-9901-4d27-98c8-6b88d1969860",
+  "rootParentId": "9b96afa8-069b-4040-b7fa-f8e4046dc178",
+  "name": "Demo1_seen",
+  "auto": true,
+  "contexts": [
+    "Demo1_positive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Demo.Demo-custom.Demo1-custom.Demo1_positive-custom",
+      "affectedContexts": [
+        {
+          "name": "Demo1_positive-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Are you immunocompromised in any way? Examples include chronic diseases, medical treatments that weaken your immune system, or organ/bone marrow transplants."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

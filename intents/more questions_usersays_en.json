@@ -1,0 +1,86 @@
+[
+  {
+    "id": "028424f2-9868-48b6-a720-cfe7f6a32089",
+    "data": [
+      {
+        "text": "my headache is ",
+        "userDefined": false
+      },
+      {
+        "text": "minor",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "418ef4bb-a359-4d3d-aea9-4141d5385bb9",
+    "data": [
+      {
+        "text": "my headache is severe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eaad8d84-8440-4514-a8c1-d3889f3c9c6d",
+    "data": [
+      {
+        "text": "minor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e28eeb24-a48e-4a52-b22b-63bae1bff9be",
+    "data": [
+      {
+        "text": "manageable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec5ba943-d44f-4f09-a14e-6b358f89e2f6",
+    "data": [
+      {
+        "text": "mild",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ce2d98d-0d4b-49c7-ab14-486b214eddbd",
+    "data": [
+      {
+        "text": "severe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "e807ac22-4dad-4254-b59f-cf2d2c4857ed",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8865c47b-012f-4d0e-8ecd-e6cc8cec13a4",
+    "data": [
+      {
+        "text": "my mucus contains blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35f4037a-dce4-45ea-bf56-7cd8eefee09b",
+    "data": [
+      {
+        "text": "the mucus is ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "654a9d88-5a25-4ddd-94f5-3a4fa3c87022",
+    "data": [
+      {
+        "text": "yes the mucus is greenish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17f7e2f-624b-453b-9cd6-8382ec0554d8",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "id": "cca48352-2726-4d00-8f15-1ae77510808f",
+  "parentId": "1de5747b-72fb-48ee-ac92-d840f45ece4c",
+  "rootParentId": "eee6c294-1ff0-4698-977f-734ce726b945",
+  "name": "more questions",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-custom-custom-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-custom-custom.DefaultWelcomeIntent-custom-custom-custom.DefaultWelcomeIntent-custom-custom-custom-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-custom-custom-custom-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0980fe27-32cd-4f67-85ff-4c8e3e14a99d",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. How would you describe your body aches?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

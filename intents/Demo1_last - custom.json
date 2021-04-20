@@ -1,0 +1,39 @@
+{
+  "id": "ceeb6c0c-3c75-4cba-8539-1344b270139c",
+  "parentId": "e72c9e07-a686-424b-a62d-7f29cb29f625",
+  "rootParentId": "9b96afa8-069b-4040-b7fa-f8e4046dc178",
+  "name": "Demo1_last - custom",
+  "auto": true,
+  "contexts": [
+    "Demo1_last-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Demo.Demo-custom.Demo1-custom.Demo1_positive-custom.Demo1_positive-custom-custom.Demo1_last-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Strong Evidence of: \u0027COVID-19\u0027. Please visit \"https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html\" to learn more. We recommend obtaining a Covid test as soon as possible and isolating accordingly. A specialist will contact you via SMS in order to assess your situation. Thank you for your time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

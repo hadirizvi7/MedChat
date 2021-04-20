@@ -1,0 +1,44 @@
+{
+  "id": "e72c9e07-a686-424b-a62d-7f29cb29f625",
+  "parentId": "451e9012-4e51-4508-becc-29ec13676f8b",
+  "rootParentId": "9b96afa8-069b-4040-b7fa-f8e4046dc178",
+  "name": "Demo1_last",
+  "auto": true,
+  "contexts": [
+    "Demo1_positive-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Demo.Demo-custom.Demo1-custom.Demo1_positive-custom.Demo1_positive-custom-custom",
+      "affectedContexts": [
+        {
+          "name": "Demo1_last-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Do you experience trouble breathing, pain in your chest, or pale/gray/blue-colored skin?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

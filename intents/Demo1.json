@@ -1,0 +1,44 @@
+{
+  "id": "f93ea2e0-e458-4015-b035-8404f7329db9",
+  "parentId": "9b96afa8-069b-4040-b7fa-f8e4046dc178",
+  "rootParentId": "9b96afa8-069b-4040-b7fa-f8e4046dc178",
+  "name": "Demo1",
+  "auto": true,
+  "contexts": [
+    "Demo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Demo.Demo-custom",
+      "affectedContexts": [
+        {
+          "name": "Demo1-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The system will ask a series of questions to establish a potential diagnosis. First, how long have these symptoms lasted?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

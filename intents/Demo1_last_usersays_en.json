@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d618fb65-f503-40b8-9018-880893b15fdc",
+    "data": [
+      {
+        "text": "Not applicable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "485f1abc-8d4f-4c8d-abbc-2ebd7cace662",
+    "data": [
+      {
+        "text": "Yes i am",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4656cbb-e09d-4566-8358-df8e9ef71645",
+    "data": [
+      {
+        "text": "No i am not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35e6e3ee-3dfe-4eb4-ac54-3d1ae5e794a7",
+    "data": [
+      {
+        "text": "no im not immunocompromised",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5b405d2-b328-414e-9914-89f13e564a82",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cda83431-37d4-4abc-886e-bc341ab2be19",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

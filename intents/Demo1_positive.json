@@ -1,0 +1,73 @@
+{
+  "id": "a0aa4785-9901-4d27-98c8-6b88d1969860",
+  "parentId": "f93ea2e0-e458-4015-b035-8404f7329db9",
+  "rootParentId": "9b96afa8-069b-4040-b7fa-f8e4046dc178",
+  "name": "Demo1_positive",
+  "auto": true,
+  "contexts": [
+    "Demo1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Demo.Demo-custom.Demo1-custom",
+      "affectedContexts": [
+        {
+          "name": "Demo1_positive-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7f022669-d45b-4bb6-9892-4ee42f6663f2",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "50b63969-8950-4517-870a-eb20001a70a2",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Have you been in contact with anyone testing for COVID-19 in the past two weeks?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

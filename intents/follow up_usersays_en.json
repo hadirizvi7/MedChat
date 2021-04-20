@@ -1,0 +1,73 @@
+[
+  {
+    "id": "6d66b69d-845f-4289-895b-a0603b2b585b",
+    "data": [
+      {
+        "text": "body aches are minor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42bb461e-97e6-45cb-8499-81f083e8d3b5",
+    "data": [
+      {
+        "text": "body aches are severe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f87444f2-74b3-43a5-8b23-68a0159faa12",
+    "data": [
+      {
+        "text": "my body aches are minor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afda56ba-870a-40f7-bc72-dcf556197cc8",
+    "data": [
+      {
+        "text": "my body aches hurt when I lay down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a014b57a-09cd-403b-b29d-f85d50cdf810",
+    "data": [
+      {
+        "text": "my body aches ",
+        "userDefined": false
+      },
+      {
+        "text": "hurt",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
