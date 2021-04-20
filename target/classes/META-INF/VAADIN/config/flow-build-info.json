@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/Users/hadi/Desktop/CS1530/medchat",
+  "generatedFolder": "/Users/hadi/Desktop/CS1530/medchat/target/frontend",
+  "frontendFolder": "/Users/hadi/Desktop/CS1530/medchat/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
